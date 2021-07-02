@@ -14,7 +14,7 @@ public class Main {
         MyBigInteger B = new MyBigInteger("");
         MyBigInteger A = new MyBigInteger("");
         MyBigInteger C = new MyBigInteger("");
-
+        MyBigInteger D = new MyBigInteger("");
         // System.out.println(C.AbbreviatedValue());
 
         long before,after,total,totalTotal,nothing,nothingTotal = 0;
